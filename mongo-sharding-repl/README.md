@@ -1,10 +1,10 @@
-# pymongo-api (sharding-repl-cache)
+# pymongo-api (mongo-sharding-repl)
 
 ## Как запустить
 
 Запускаем mongodb и приложение
 
-Перейти в директорию `sharding-repl-cache` и выполнить команду
+Перейти в директорию `mongo-sharding-repl` и выполнить команду
 
 ```shell
 docker compose up -d
@@ -38,6 +38,3 @@ curl --silent http://ifconfig.me
 ## Доступные эндпоинты
 
 Список доступных эндпоинтов, swagger http://<ip виртуальной машины>:8080/docs
-
-## Схема приложения
-https://drive.google.com/file/d/1N_RWlrIRbgPojEY1Hfu0OQLJ_5UTPBzX/view?usp=sharing

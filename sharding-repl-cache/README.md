@@ -38,6 +38,3 @@ curl --silent http://ifconfig.me
 ## Доступные эндпоинты
 
 Список доступных эндпоинтов, swagger http://<ip виртуальной машины>:8080/docs
-
-## Схема приложения
-https://drive.google.com/file/d/1N_RWlrIRbgPojEY1Hfu0OQLJ_5UTPBzX/view?usp=sharing
