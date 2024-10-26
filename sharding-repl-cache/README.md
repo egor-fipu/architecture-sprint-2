@@ -1,4 +1,4 @@
-# pymongo-api (mongo-sharding)
+# pymongo-api (sharding-repl-cache)
 
 ## Как запустить
 
